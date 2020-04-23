@@ -1,0 +1,3 @@
+User-agent: *
+Host: sharapov.biz
+Sitemap: http://sharapov.biz/sitemap.xml
