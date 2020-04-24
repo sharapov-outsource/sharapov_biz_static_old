@@ -1539,7 +1539,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 
 .hire-me {
   max-width: 10em;
-  margin: auto 0;
+  margin: 2em auto 0;
 }
 
 .hire-me img {
